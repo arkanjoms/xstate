@@ -11,7 +11,15 @@
     "@xstate/scxml": "0.2.1",
     "@xstate/test": "0.1.0",
     "@xstate/viz": "0.1.0",
-    "@xstate/viz-example": "1.0.0"
+    "@xstate/viz-example": "1.0.0",
+    "@xstate/devtools": "0.1.0"
   },
-  "changesets": []
+  "changesets": [
+    "eighty-coins-tease",
+    "moody-buttons-double",
+    "shy-walls-develop",
+    "silent-donkeys-relate",
+    "sixty-hornets-allow",
+    "slow-apples-dance"
+  ]
 }
